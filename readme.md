@@ -25,3 +25,6 @@ Caso seja necessario mudar a porta da API, é possível mudar no arquivo:
 ```sh
 src\server.ts
 ```
+
+## Requisitos
+Node: 16 ou superior
