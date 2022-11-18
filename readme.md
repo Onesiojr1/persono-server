@@ -27,4 +27,4 @@ src\server.ts
 ```
 
 ## Requisitos
-Node: 16 ou superior
+Node: versão 16 ou superior
