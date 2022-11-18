@@ -11,7 +11,7 @@ git clone https://github.com/Onesiojr1/persono-server.git
 
 Após clonar o projeto, você deve entrar no diretório do projeto e instalar suas dependências com os comandos:
 ```sh
-cd .\persono_server\
+cd .\persono-server\
 npm i
 ```
 
